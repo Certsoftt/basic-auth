@@ -1,5 +1,5 @@
 {
-  "name": "@ubsimple/basic-auth",
+  "name": "ubsimple-basic-auth",
   "version": "1.0.0",
   "description": "A React Component Authenticatcation for protecting routes, no api usage, no database. It works with react-router-dom as it is built totally on it ",
   "main": "index.js",
